@@ -119,6 +119,7 @@ The Python service will be built using FastAPI and include:
 - SHAP library for SHAP explanations
 - LIME library for LIME explanations
 - NumPy/SciPy for statistical computations
+- AIF360 library for fairness
 
 **Custom Code**: We will build TrustyAI-specific algorithms to keep consistency with the Java version
 
